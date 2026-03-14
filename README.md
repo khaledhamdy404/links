@@ -65,7 +65,7 @@ I'm a CCE student at Mansoura University with a passion for **offensive security
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@khaledhamdy404-e6v)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=flat&logo=snapchat&logoColor=black)](https://snapchat.com/t/J6vobM8X)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-00C030?style=flat&logo=letterboxd&logoColor=white)](https://boxd.it/8My0D)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khalidhamdy37@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khalidhamdy37@gmail.com)
 
 ---
 
